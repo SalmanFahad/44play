@@ -13,7 +13,7 @@
 // If you don't know how to get a user token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token=NDkxMjc4NzU5ODIzOTMzNDUw.DqT3aA.AiONT-5YjRtDKKJB0OLkU_MfxEo
+token=NDkzMjY5OTY4OTY5MDA3MTM0.DsNLeA.tbUmLsKKURHIKPsGRb0obqcaGig
 
 
 // This sets the owner of the bot
@@ -29,7 +29,7 @@ owner=391306171278950401
 // If you do not set this, the prefix will be a mention of the bot (@Botname play)
 // If you make this blank, the bot will not use a prefix
 
-prefix= q
+prefix= 4
 
 
 /////////////////////////////////////////////////////////////
@@ -45,7 +45,7 @@ prefix= q
 // where X is the title. If you don't include an action, it will use the
 // default of 'Playing'
 //
-game=Type : qplay playlist qr
+game
 
 
 // If you set this, it will modify the default status of bot
